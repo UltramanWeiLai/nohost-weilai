@@ -2,13 +2,13 @@
   "name": "whistle.nohost-weilai",
   "version": "1.0.0",
   "description": "连接 nohost 的 whistle 插件",
-  "pluginHomepage": "http://124.223.5.96:8001",
+  "pluginHomepage": "http://www.itonghan.cn:8002",
   "whistleConfig": {
     "priority": 1,
     "hideLongProtocol": true,
     "hideShortProtocol": true,
     "menuConfig": {
-      "baseUrl": "http://124.223.5.96:8001"
+      "baseUrl": "http://www.itonghan.cn:8002"
     },
     "networkMenus": [
       {
