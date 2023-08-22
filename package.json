@@ -1,6 +1,6 @@
 {
   "name": "whistle.nohost-weilai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "连接 nohost 的 whistle 插件",
   "pluginHomepage": "http://www.itonghan.cn:8002",
   "whistleConfig": {
